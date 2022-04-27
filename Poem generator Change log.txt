@@ -1,0 +1,13 @@
+v0.1:
+Takes in user input
+Scrambles words and displays rearranged words
+
+v0.2:
+Added random line inserter
+
+v0.3:
+Added save functionality (will append to any files already existing with the same name)
+Files will be saved in the same folder as the .exe
+
+v0.4:
+Added some sleep timers
